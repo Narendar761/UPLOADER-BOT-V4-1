@@ -11,11 +11,13 @@ logging.basicConfig(
 
 class Config(object):
     
-    BOT_TOKEN = os.environ.get("BOT_TOKEN", "")
-    
-    API_ID = int(os.environ.get("API_ID", ""))
-    
-    API_HASH = os.environ.get("API_HASH", "")
+    APP_ID=924859
+    API_HASH=a4c9a18cf4d8cb24062ff6916597f832
+    BOT_TOKEN=1732757652:AAG8mCfPT2Ils5sDu5RgbrZ_MnjI1j2dQkY
+    DATABASE_URL=mongodb+srv://user:user@cluster0.x3e1p.mongodb.net
+    OWNER_ID=754495556
+    LOG_CHANNEL=-1001879335914
+    UPDATES_CHANNEL=-1001428601312
     
     DOWNLOAD_LOCATION = "./DOWNLOADS"
     
@@ -39,17 +41,13 @@ class Config(object):
     
     DEF_WATER_MARK_FILE = "UploadLinkToFileBot"
     
-    DATABASE_URL = os.environ.get("DATABASE_URL", "")
     
     SESSION_NAME = os.environ.get("SESSION_NAME", "UploadLinkToFileBot")
     
-    LOG_CHANNEL = int(os.environ.get("LOG_CHANNEL", ""))
+    
     
     LOGGER = logging
 
-    UPDATES_CHANNEL = os.environ.get("UPDATES_CHANNEL", "")
-    
-    OWNER_ID = int(os.environ.get("OWNER_ID", ""))
     
     TG_MIN_FILE_SIZE = 2097152000
     

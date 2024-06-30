@@ -14,7 +14,7 @@ class Config(object):
     API_ID = "1144902"
     API_HASH = "e743e5a4f35076e4c558a4bd713082e9"
     BOT_TOKEN = "1732757652:AAG8mCfPT2Ils5sDu5RgbrZ_MnjI1j2dQkY"
-    DATABASE_URL = "mongodb+srv://user:user@cluster0.x3e1p.mongodb.net"
+    DATABASE_URL = "mongodb+srv://user:user@cluster0.dl7daik.mongodb.net"
     OWNER_ID = "754495556"
     LOG_CHANNEL = "-1001879335914"
     UPDATES_CHANNEL = "-1001428601312"

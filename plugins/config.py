@@ -11,8 +11,8 @@ logging.basicConfig(
 
 class Config(object):
     
-    API_ID = "924859"
-    API_HASH = "a4c9a18cf4d8cb24062ff6916597f832"
+    API_ID = "1144902"
+    API_HASH = "e743e5a4f35076e4c558a4bd713082e9"
     BOT_TOKEN = "1732757652:AAG8mCfPT2Ils5sDu5RgbrZ_MnjI1j2dQkY"
     DATABASE_URL = "mongodb+srv://user:user@cluster0.x3e1p.mongodb.net"
     OWNER_ID = "754495556"

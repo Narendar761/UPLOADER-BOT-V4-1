@@ -11,7 +11,7 @@ logging.basicConfig(
 
 class Config(object):
     
-    APP_ID = "924859"
+    API_ID = "924859"
     API_HASH = "a4c9a18cf4d8cb24062ff6916597f832"
     BOT_TOKEN = "1732757652:AAG8mCfPT2Ils5sDu5RgbrZ_MnjI1j2dQkY"
     DATABASE_URL = "mongodb+srv://user:user@cluster0.x3e1p.mongodb.net"

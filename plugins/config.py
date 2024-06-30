@@ -11,13 +11,13 @@ logging.basicConfig(
 
 class Config(object):
     
-    APP_ID=924859
-    API_HASH=a4c9a18cf4d8cb24062ff6916597f832
-    BOT_TOKEN=1732757652:AAG8mCfPT2Ils5sDu5RgbrZ_MnjI1j2dQkY
-    DATABASE_URL=mongodb+srv://user:user@cluster0.x3e1p.mongodb.net
-    OWNER_ID=754495556
-    LOG_CHANNEL=-1001879335914
-    UPDATES_CHANNEL=-1001428601312
+    APP_ID = "924859"
+    API_HASH = "a4c9a18cf4d8cb24062ff6916597f832"
+    BOT_TOKEN = "1732757652:AAG8mCfPT2Ils5sDu5RgbrZ_MnjI1j2dQkY"
+    DATABASE_URL = "mongodb+srv://user:user@cluster0.x3e1p.mongodb.net"
+    OWNER_ID = "754495556"
+    LOG_CHANNEL = "-1001879335914"
+    UPDATES_CHANNEL = "-1001428601312"
     
     DOWNLOAD_LOCATION = "./DOWNLOADS"
     

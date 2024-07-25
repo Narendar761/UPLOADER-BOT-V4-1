@@ -11,13 +11,13 @@ logging.basicConfig(
 
 class Config(object):
     
-    API_ID = "2532603"
-    API_HASH = "f565b00bbe3ad9c6748e39a3a71d16e7"
-    BOT_TOKEN = "1732757652:AAG8mCfPT2Ils5sDu5RgbrZ_MnjI1j2dQkY"
-    DATABASE_URL = "mongodb+srv://user:user@cluster0.0vi8sg6.mongodb.net"
-    OWNER_ID = "754495556"
-    LOG_CHANNEL = "-1001879335914"
-    UPDATES_CHANNEL = "-1001428601312"
+    API_ID = "22808125"
+    API_HASH = "406c09543fec722fe3c48ca2f06d78de"
+    BOT_TOKEN = "6421258723:AAH97XzwDvFr3jf_qyI4CaYwM3BxAIwo-Vo"
+    DATABASE_URL = "mongodb+srv://Nkbot001:nkbot123@helpy.wfrytzq.mongodb.net/?retryWrites=true&w=majority&appName=Helpy"
+    OWNER_ID = "819861991"
+    LOG_CHANNEL = "-1001916142483"
+    UPDATES_CHANNEL = "-1001988879902"
     
     DOWNLOAD_LOCATION = "./DOWNLOADS"
     
